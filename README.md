@@ -6,7 +6,7 @@ My first repository
 
 ## 🌲 Gravity Falls
 
-![Gravity Falls](images/gravity-falls.png)
+![Gravity Falls](gravity-falls.png)
 
 > "Trust no one."
 
